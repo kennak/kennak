@@ -18,7 +18,7 @@ Developed a wide variety of audio effect types for nana music —
 covering dynamics, modulation, reverb, delay, pitch shifting, and more.
 
 📦 Demo app: coming soon  
-✉️ contact@knaka.net
+✉️ contact [at] knaka.net
 
 ---
 
@@ -40,4 +40,4 @@ covering dynamics, modulation, reverb, delay, pitch shifting, and more.
 nana music向けに、ダイナミクス・モジュレーション・リバーブ・ディレイ・ピッチシフトなど、多岐にわたるオーディオエフェクトタイプを開発。
 
 📦 デモアプリ: 公開準備中  
-✉️ contact@knaka.net
+✉️ contact [at] knaka.net
