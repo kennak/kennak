@@ -4,7 +4,7 @@ Real-time audio software developer with deep roots in synthesizer engine design.
 
 **Background**
 - KORG: Synthesizer / effector engine development
-- nana music (westunitis): 50+ audio effects for iOS/Android, VST3 plugins,  
+- nana music : 50+ audio effects for iOS/Android, VST3 plugins,  
   cross-platform C++ DSP architecture
 
 **Core expertise**
@@ -28,7 +28,7 @@ covering dynamics, modulation, reverb, delay, pitch shifting, and more.
 
 **経歴**
 - KORG: シンセサイザー／エフェクターエンジン開発
-- nana music (westunitis): iOS/Android向け50種以上のオーディオエフェクト、VST3プラグイン、クロスプラットフォームC++ DSPアーキテクチャ
+- nana music : iOS/Android向け50種以上のオーディオエフェクト、VST3プラグイン、クロスプラットフォームC++ DSPアーキテクチャ
 
 **専門領域**
 - シンセサイザー・エフェクト処理のためのリアルタイムC++ DSP
