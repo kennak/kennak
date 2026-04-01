@@ -17,8 +17,11 @@ Real-time audio software developer with deep roots in synthesizer engine design.
 Developed a wide variety of audio effect types for nana music —  
 covering dynamics, modulation, reverb, delay, pitch shifting, and more.
 
-📦 Demo app: coming soon  
-✉️ contact [at] knaka.net
+**EffectPlayDemo** — macOS audio effect demo app (JUCE / C++)  
+[Download v1.0](https://github.com/kennak/kennak/releases/tag/v1.0)   
+
+**Contact**
+contact [at] knaka.net
 
 ---
 
@@ -39,5 +42,8 @@ covering dynamics, modulation, reverb, delay, pitch shifting, and more.
 **現在の活動**
 nana music向けに、ダイナミクス・モジュレーション・リバーブ・ディレイ・ピッチシフトなど、多岐にわたるオーディオエフェクトタイプを開発。
 
-📦 デモアプリ: 公開準備中  
-✉️ contact [at] knaka.net
+**EffectPlayDemo** — macOSオーディオエフェクトデモアプリ (JUCE / C++)  
+[ダウンロード v1.0](https://github.com/kennak/kennak/releases/tag/v1.0)   
+
+**お問い合わせ**
+contact [at] knaka.net
