@@ -43,7 +43,7 @@ contact [at] knaka.net
 **直近の活動**   
 nana music向けに、ダイナミクス・モジュレーション・リバーブ・ディレイ・ピッチシフトなど、多岐にわたるオーディオエフェクトタイプを開発。
 
-**デモ　アプリ**
+**デモアプリ**
 - EffectPlayDemo: macOSオーディオエフェクトデモアプリ (JUCE / C++)  
 [ダウンロード v1.0](https://github.com/kennak/kennak/releases/tag/v1.0)   
 
