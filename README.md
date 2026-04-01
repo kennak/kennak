@@ -13,7 +13,7 @@ Real-time audio software developer with deep roots in synthesizer engine design.
 - ARM NEON SIMD optimization
 - iOS (Swift/C++) · Android (Kotlin/Oboe) · macOS · VST3
 
-**Current work**
+**Current work**   
 Developed a wide variety of audio effect types for nana music —  
 covering dynamics, modulation, reverb, delay, pitch shifting, and more.
 
@@ -40,7 +40,7 @@ contact [at] knaka.net
 - ARM NEON SIMDによる最適化
 - iOS (Swift/C++) · Android (Kotlin/Oboe) · macOS · VST3
 
-**現在の活動**
+**現在の活動**   
 nana music向けに、ダイナミクス・モジュレーション・リバーブ・ディレイ・ピッチシフトなど、多岐にわたるオーディオエフェクトタイプを開発。
 
 **デモ　アプリ**
