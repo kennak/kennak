@@ -21,7 +21,7 @@ covering dynamics, modulation, reverb, delay, pitch shifting, and more.
 - EffectPlayDemo: macOS audio effect demo app (JUCE / C++)  
 [Download v1.0](https://github.com/kennak/kennak/releases/tag/v1.0)   
 
-**Contact**
+**Contact**   
 contact [at] knaka.net
 
 ---
@@ -47,5 +47,5 @@ nana music向けに、ダイナミクス・モジュレーション・リバー�
 - EffectPlayDemo: macOSオーディオエフェクトデモアプリ (JUCE / C++)  
 [ダウンロード v1.0](https://github.com/kennak/kennak/releases/tag/v1.0)   
 
-**お問い合わせ**
+**お問い合わせ**   
 contact [at] knaka.net
