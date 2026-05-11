@@ -3,7 +3,7 @@
 Real-time audio software developer with deep roots in synthesizer engine design.
 
 **Background**
-- KORG: Synthesizer / effector engine development 1992 - 2020
+- KORG: Synthesizer / effector engine development 1992 - 2020 (Prophecy/Z1/MS2000/Radias/KP3/Kaosillator etc...)
 - nana music : 50+ audio effects for iOS/Android, VST3 plugins,  
   cross-platform C++ DSP architecture 2022 - 2026
 
@@ -35,7 +35,7 @@ contact [at] knaka.net
 シンセサイザーエンジン開発をルーツに持つ、リアルタイムオーディオソフトウェア開発者。
 
 **経歴**
-- KORG: シンセサイザー／エフェクターエンジン開発 1992 - 2020
+- KORG: シンセサイザー／エフェクターエンジン開発 1992 - 2020 (Prophecy/Z1/MS2000/Radias/KP3/Kaosillator etc...)
 - nana music : iOS/Android向け50種以上のオーディオエフェクト、VST3プラグイン、クロスプラットフォームC++ DSPアーキテクチャ 2022 - 2026
 
 **専門領域**
