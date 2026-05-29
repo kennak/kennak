@@ -21,9 +21,12 @@ covering dynamics, modulation, reverb, delay, pitch shifting, and more.
 - EffectPlayDemo: macOS audio effect demo app (JUCE / C++)  
 [Download v1.0](https://github.com/kennak/kennak/releases/tag/v1.0)   
 
-**Production iOS App**
+**Production App**
 - [nana - Music Collaboration App](https://apps.apple.com/jp/app/id6446342306)
 I implemented **all types of audio effect engines** available in this app. It serves as a production-level example of high-quality, real-time DSP on mobile devices.
+
+- [AUv3 plugin Effect Trem-N-Verb](https://apps.apple.com/app/trem-n-verb/id6769229422)
+
 
 **Contact**   
 contact [at] knaka.net
@@ -51,10 +54,12 @@ nana music向けに、ダイナミクス・モジュレーション・リバー�
 - EffectPlayDemo: macOSオーディオエフェクトデモアプリ (JUCE / C++)  
 [ダウンロード v1.0](https://github.com/kennak/kennak/releases/tag/v1.0)   
 
-**開発協力アプリ（iOS）**
-- [nana - 音楽コラボアプリ](https://apps.apple.com/jp/app/id6446342306)
+**開発アプリ（iOS）**
+- [nana - 音楽コラボアプリ 開発協力](https://apps.apple.com/jp/app/id6446342306)
 [![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/jp/app/id6446342306)  
 本アプリ内に搭載されている、ダイナミクス、モジュレーション、空間系、ピッチシフト等、**全種類のエフェクト・エンジン**を実装しています。モバイル環境におけるリアルタイムかつ高品質な信号処理の実装例としてご確認いただけます。
+
+- [AUv3 plugin Effect Trem-N-Verb](https://apps.apple.com/app/trem-n-verb/id6769229422)
 
 **お問い合わせ**   
 contact [at] knaka.net
