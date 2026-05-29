@@ -26,6 +26,7 @@ covering dynamics, modulation, reverb, delay, pitch shifting, and more.
 I implemented **all types of audio effect engines** available in this app. It serves as a production-level example of high-quality, real-time DSP on mobile devices.
 
 - [AUv3 plugin Effect Trem-N-Verb](https://apps.apple.com/app/trem-n-verb/id6769229422)
+- [AUv3 Plugin Effect SimpleChorusEffect](https://apps.apple.com/jp/app/simplechoruseffect/id6767883946)   
 
 
 **Contact**   
@@ -60,6 +61,8 @@ nana music向けに、ダイナミクス・モジュレーション・リバー�
 本アプリ内に搭載されている、ダイナミクス、モジュレーション、空間系、ピッチシフト等、**全種類のエフェクト・エンジン**を実装しています。モバイル環境におけるリアルタイムかつ高品質な信号処理の実装例としてご確認いただけます。
 
 - [AUv3 plugin Effect Trem-N-Verb](https://apps.apple.com/app/trem-n-verb/id6769229422)
+- [AUv3 Plugin Effect SimpleChorusEffect](https://apps.apple.com/jp/app/simplechoruseffect/id6767883946)   
+
 
 **お問い合わせ**   
 contact [at] knaka.net
