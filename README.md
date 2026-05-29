@@ -3,9 +3,9 @@
 Real-time audio software developer with deep roots in synthesizer engine design.
 
 **Background**
-- KORG: Synthesizer / effector engine development 1992 - 2020 (Prophecy/Z1/MS2000/Radias/KP3/Kaosillator etc...)
+- KORG: Synthesizer / effector engine development (Prophecy/Z1/MS2000/Radias/KP3/Kaosillator etc...)
 - nana music : 50+ audio effects for iOS/Android, VST3 plugins,  
-  cross-platform C++ DSP architecture 2022 - 2026
+  cross-platform C++ DSP architecture
 
 **Core expertise**
 - Real-time C++ DSP for synthesizer and effect processing
@@ -39,8 +39,8 @@ contact [at] knaka.net
 シンセサイザーエンジン開発をルーツに持つ、リアルタイムオーディオソフトウェア開発者。
 
 **経歴**
-- KORG: シンセサイザー／エフェクターエンジン開発 1992 - 2020 (Prophecy/Z1/MS2000/Radias/KP3/Kaosillator etc...)
-- nana music : iOS/Android向け50種以上のオーディオエフェクト、VST3プラグイン、クロスプラットフォームC++ DSPアーキテクチャ 2022 - 2026
+- KORG: シンセサイザー／エフェクターエンジン開発 (Prophecy/Z1/MS2000/Radias/KP3/Kaosillator etc...)
+- nana music : iOS/Android向け50種以上のオーディオエフェクト、VST3プラグイン、クロスプラットフォームC++ DSPアーキテクチャ
 
 **専門領域**
 - シンセサイザー・エフェクト処理のためのリアルタイムC++ DSP
@@ -55,7 +55,7 @@ nana music向けに、ダイナミクス・モジュレーション・リバー�
 - EffectPlayDemo: macOSオーディオエフェクトデモアプリ (JUCE / C++)  
 [ダウンロード v1.0](https://github.com/kennak/kennak/releases/tag/v1.0)   
 
-**開発アプリ（iOS）**
+**開発アプリ（iOS/macOs）**
 - [nana - 音楽コラボアプリ 開発協力](https://apps.apple.com/jp/app/id6446342306)
 [![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/jp/app/id6446342306)  
 本アプリ内に搭載されている、ダイナミクス、モジュレーション、空間系、ピッチシフト等、**全種類のエフェクト・エンジン**を実装しています。モバイル環境におけるリアルタイムかつ高品質な信号処理の実装例としてご確認いただけます。
