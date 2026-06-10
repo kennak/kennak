@@ -27,7 +27,7 @@ I implemented **all types of audio effect engines** available in this app. It se
 
 - [AUv3 plugin Effect Trem-N-Verb for mac/ios](https://apps.apple.com/app/trem-n-verb/id6769229422)
 - [AUv3 Plugin Effect SimpleChorusEffect for mac/ios](https://apps.apple.com/jp/app/simplechoruseffect/id6767883946)
-- [AUv3 Plugin Effect DuckingReverb for mac](https://apps.apple.com/app/duckingreverb/id6772046930)   
+- [AUv3 Plugin Effect DuckingReverb for mac/ios](https://apps.apple.com/app/duckingreverb/id6772046930)   
 
 
 **Contact**   
@@ -63,7 +63,7 @@ nana music向けに、ダイナミクス・モジュレーション・リバー�
 
 - [AUv3 plugin Effect Trem-N-Verb mac/ios](https://apps.apple.com/app/trem-n-verb/id6769229422)
 - [AUv3 Plugin Effect SimpleChorusEffect mac/ios](https://apps.apple.com/jp/app/simplechoruseffect/id6767883946)
-- [AUv3 Plugin Effect DuckingReverb mac](https://apps.apple.com/app/duckingreverb/id6772046930)   
+- [AUv3 Plugin Effect DuckingReverb mac/ios](https://apps.apple.com/app/duckingreverb/id6772046930)   
 
 
 **お問い合わせ**   
